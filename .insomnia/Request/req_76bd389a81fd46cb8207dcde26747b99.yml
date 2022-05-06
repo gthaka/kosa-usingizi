@@ -1,0 +1,25 @@
+_id: req_76bd389a81fd46cb8207dcde26747b99
+type: Request
+parentId: wrk_714f1ec96af04a3e9147bfe4efe06b33
+modified: 1651860992262
+created: 1651860961027
+url: http://localhost:4000/graphql
+name: All Queries
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_3c3b47f9a8cb4287addf0e2bc9b63530
+    name: query
+    value: "{quoteOfTheDay,rollThreeDice,hello,random}"
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1651860961027
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

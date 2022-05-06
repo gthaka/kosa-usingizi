@@ -1,0 +1,25 @@
+_id: req_0eaf921688044fff924b5e9e99d239f1
+type: Request
+parentId: wrk_714f1ec96af04a3e9147bfe4efe06b33
+modified: 1651860645269
+created: 1651860068493
+url: http://localhost:4000/graphql
+name: RollDice
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_69d756be177b40e399bd1ad4fff2ade4
+    name: query
+    value: "{rollThreeDice}"
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1651860068493
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
