@@ -1,7 +1,7 @@
 _id: req_2563010491764bb2855c189416b16122
 type: Request
-parentId: wrk_714f1ec96af04a3e9147bfe4efe06b33
-modified: 1651885280612
+parentId: fld_8fd4c546317e4df7ad3350ff9728c99e
+modified: 1651921693737
 created: 1651885054167
 url: http://localhost:4000/graphql
 name: RandomDie (Object)
@@ -18,7 +18,7 @@ parameters:
     disabled: false
 headers: []
 authentication: {}
-metaSortKey: -1651885054167
+metaSortKey: -1651906412547
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
