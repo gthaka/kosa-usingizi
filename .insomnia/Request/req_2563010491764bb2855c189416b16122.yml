@@ -1,0 +1,28 @@
+_id: req_2563010491764bb2855c189416b16122
+type: Request
+parentId: wrk_714f1ec96af04a3e9147bfe4efe06b33
+modified: 1651885280612
+created: 1651885054167
+url: http://localhost:4000/graphql
+name: RandomDie (Object)
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_532bf28254af4860a255459f85a7e7b1
+    name: query
+    value: "{getDie(numSides: 6){rollOnce roll(numRolls: 3)}}"
+    description: ""
+    type: text
+    multiline: text/plain
+    disabled: false
+headers: []
+authentication: {}
+metaSortKey: -1651885054167
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
