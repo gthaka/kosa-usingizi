@@ -1,0 +1,10 @@
+_id: fld_8fd4c546317e4df7ad3350ff9728c99e
+type: RequestGroup
+parentId: wrk_714f1ec96af04a3e9147bfe4efe06b33
+modified: 1651921562987
+created: 1651921562987
+name: GraphQL Basic [https://github.com/gthaka/graphql-basic.git]
+description: ""
+environment: {}
+environmentPropertyOrder: null
+metaSortKey: -1651921562987
